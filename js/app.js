@@ -17,12 +17,14 @@
     "old",
     "clouds",
     "heart",
+    "gnashing",
+    "undertow",
   ]
 
 
   function handleNewWord()
   {
-    var num = Math.round(Math.random() * words.length-1)
+    var num = Math.floor(Math.random() * words.length)
     var word = document.getElementById("word")
     word.innerHTML = words[num]
   }

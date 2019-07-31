@@ -1,11 +1,11 @@
-:root 
+:root
 {
   --main-bg-color: #424242;
   --main-font-color: #FFFFFF;
 }
 
 ul li
-{ 
+{
   margin-left: 20px !important;
 }
 
@@ -35,6 +35,13 @@ a
   margin-top: 10px;
   margin-bottom: 10px;
   max-width: 100%;
+}
+
+.gen-text
+{
+  vertical-align: middle;
+  display: inline-flex;
+  align-items: center;
 }
 
 .gen-button
