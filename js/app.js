@@ -19,6 +19,9 @@
     "heart",
     "gnashing",
     "undertow",
+    "haunt",
+    "temporal",
+    "void",
   ]
 
 
